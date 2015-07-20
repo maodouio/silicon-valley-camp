@@ -13,3 +13,19 @@
 ## Install
 * http://docs.meteor.com/
 * http://atmospherejs.com
+
+### Useful Commands
+* pwd
+* mkdir Github
+* meteor create myapp
+* meteor
+* meteor help
+* meteor list-sites
+* meteor authorized limingth.meteor.com
+* meteor authorized limingth.meteor.com help
+* meteor authorized limingth.meteor.com --add fradac
+* meteor authorized limingth.meteor.com --remove fradac
+* meteor create --help
+* meteor create --list 
+* meteor create --example localmarket
+
