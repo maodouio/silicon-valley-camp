@@ -41,12 +41,18 @@
 # From Prototype to Template
 ## Meteor Template
 * name
-* parameter
 * layout
+* parameter
 
 ## Meteor Router
 * name 
 * data
+
+## 
+* seed
+* collections
+* autoform
+* allow
 
 ## Packages
 * bootstrap
