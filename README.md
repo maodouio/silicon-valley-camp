@@ -80,8 +80,11 @@
    - meteor add materialize:materialize
 
 ## Other Packages
-* bootstrap
-  - twbs:bootstrap
+* default
+  - autopublish
+  - insecure
+* iron-router
+  - iron:router
 * autoform 
   - aldeed:collection2
   - aldeed:autoform
