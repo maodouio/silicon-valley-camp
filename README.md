@@ -59,10 +59,15 @@
 * http://getbootstrap.com/
 * http://www.bootcss.com/
 * https://atmospherejs.com/twbs/bootstrap
+  - meteor add twbs:bootstrap
 
 ### Inoic
 * http://meteoric.github.io
 * https://atmospherejs.com/meteoric/ionic
+  - meteor add meteoric:ionic-sass
+  - meteor add meteoric:ionicons-sass
+  - meteor add meteoric:ionic
+  - meteor add meteoric:autoform-ionic
 
 ### Inspinia
 * https://wrapbootstrap.com/themes/admin
@@ -72,8 +77,9 @@
 ### Material Design
 * http://materializecss.com
 * https://atmospherejs.com/materialize/materialize
+   - meteor add materialize:materialize
 
-## Packages
+## Other Packages
 * bootstrap
   - twbs:bootstrap
 * autoform 
