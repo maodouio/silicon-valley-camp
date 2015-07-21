@@ -29,3 +29,33 @@
 * meteor create --list 
 * meteor create --example localmarket
 
+## Tools
+* pop
+* Sublime Text 3
+
+## Design
+* Form New 
+* List
+* Item Detail
+
+# From Prototype to Template
+## Meteor Template
+* 
+
+## Meteor Router
+* name 
+* data
+
+## Packages
+* bootstrap
+  - twbs:bootstrap
+* autoform 
+  - aldeed:collection2
+  - aldeed:autoform
+  - aldeed:simple-schema
+  - yogiben:autoform-file
+* cfs
+  - cfs:standard-packages
+  - cfs:gridfs
+
+
