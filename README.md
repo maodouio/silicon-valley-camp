@@ -40,7 +40,9 @@
 
 # From Prototype to Template
 ## Meteor Template
-* 
+* name
+* parameter
+* layout
 
 ## Meteor Router
 * name 
