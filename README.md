@@ -94,4 +94,23 @@
   - cfs:standard-packages
   - cfs:gridfs
 
+## From templates to beta version
+### Collection
+* http://docs.meteor.com/#/basic/Mongo-Collection
+
+### Mongo DB
+* http://docs.mongodb.org/manual/
+
+## Data submit
+### Autoform
+* http://autoform.meteor.com
+
+### cfs
+* https://github.com/CollectionFS/Meteor-CollectionFS
+
+### autoform-file
+* https://github.com/yogiben/meteor-autoform-file
+
+## Data view
+* 
 
