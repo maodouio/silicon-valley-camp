@@ -117,8 +117,11 @@
 ## Data view
 * Mongo ops
   * find
-  * sort
   * fetch
+  * sort
+    - Projects.find().fetch()
+    - Projects.find({}, {sort: {createdAt: -1}}).fetch()
+    - Projects.find({}, {sort: {createdAt: -1}, limit:2}).fetch()
 * Spacebars
   * #each
   * #with
