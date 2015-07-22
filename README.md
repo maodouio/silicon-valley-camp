@@ -114,7 +114,7 @@
 ### autoform-file
 * https://github.com/yogiben/meteor-autoform-file
 
-## Data view
+## Data list view
 * Mongo ops
   * find
   * fetch
@@ -122,9 +122,13 @@
     - Projects.find().fetch()
     - Projects.find({}, {sort: {createdAt: -1}}).fetch()
     - Projects.find({}, {sort: {createdAt: -1}, limit:2}).fetch()
+* helper
+* events
 * Spacebars
   * #each
   * #with
   * #if/else
-* helper
-* events
+
+## Data detail view
+* pathFor
+* Router data/:id
