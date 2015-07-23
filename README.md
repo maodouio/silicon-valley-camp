@@ -138,3 +138,9 @@
 ## Iron Router
 * https://github.com/iron-meteor/iron-router
 * http://iron-meteor.github.io/iron-router/
+
+## Pub/Sub
+* http://docs.meteor.com/#/basic/pubsub
+
+### publish-composite
+  - https://atmospherejs.com/reywood/publish-composite
