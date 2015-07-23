@@ -132,3 +132,9 @@
 ## Data detail view
 * pathFor
 * Router data/:id
+
+
+# Router and Data
+## Iron Router
+* https://github.com/iron-meteor/iron-router
+* http://iron-meteor.github.io/iron-router/
