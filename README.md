@@ -167,4 +167,6 @@
     - settings.json 
   - modify mup.json
     - Example File: https://github.com/kevingzhang/welog/tree/master/mup
-  - ssh -i xxx.pem ubuntu@xx.xx.xx.xx ifconfig
+  - mup setup
+    - ssh -i xxx.pem ubuntu@xx.xx.xx.xx ifconfig
+  - mup deploy 
