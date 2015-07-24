@@ -166,6 +166,4 @@
     - mup.json
     - settings.json 
   - modify mup.json
-  - 
-  
-* https://github.com/kevingzhang/welog/tree/master/mup
+    - Example File: https://github.com/kevingzhang/welog/tree/master/mup
