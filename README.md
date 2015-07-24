@@ -170,3 +170,11 @@
   - mup setup
     - ssh -i xxx.pem ubuntu@xx.xx.xx.xx ifconfig
   - mup deploy 
+
+## How to make an app
+* https://www.meteor.com/tutorials/blaze/running-on-mobile
+  - meteor install-sdk ios
+  - meteor add-platform ios
+  - meteor run ios
+  - meteor run ios-device
+  - meteor run ios-device --mobile-server maodou-weixin.meteor.com
