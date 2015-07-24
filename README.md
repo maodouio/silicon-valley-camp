@@ -144,3 +144,7 @@
 
 ### publish-composite
   - https://atmospherejs.com/reywood/publish-composite
+
+# Deploy
+## AWS
+* http://aws.amazon.com/ec2/
