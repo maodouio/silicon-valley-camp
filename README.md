@@ -148,3 +148,7 @@
 # Deploy
 ## AWS
 * http://aws.amazon.com/ec2/
+
+## Mup
+* https://github.com/arunoda/meteor-up
+* https://github.com/kevingzhang/welog/tree/master/mup
