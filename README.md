@@ -148,7 +148,13 @@
 # Deploy
 ## AWS
 * http://aws.amazon.com/ec2/
+  - launch instance (ubuntu 14.04 64-bit paravirtual)
+  - download pem file
+  - change security group: Inbound (all traffic)
+  - ssh -i your.pem ubuntu@your-ip-address
 
 ## Mup
 * https://github.com/arunoda/meteor-up
+  - https://github.com/arunoda/meteor-up#installation
+  - Install npm: https://nodejs.org/
 * https://github.com/kevingzhang/welog/tree/master/mup
