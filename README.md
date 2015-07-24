@@ -157,4 +157,15 @@
 * https://github.com/arunoda/meteor-up
   - https://github.com/arunoda/meteor-up#installation
   - Install npm: https://nodejs.org/
+
+* How to use mup
+  - npm install -g mup
+  - mup 
+  - cd your-project-dir
+  - mup init
+    - mup.json
+    - settings.json 
+  - modify mup.json
+  - 
+  
 * https://github.com/kevingzhang/welog/tree/master/mup
