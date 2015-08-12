@@ -1,4 +1,6 @@
 # silicon-valley-camp
+
+[![Join the chat at https://gitter.im/maodouio/silicon-valley-camp](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/maodouio/silicon-valley-camp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 硅谷Meteor孵化营
 
 ## Demos
